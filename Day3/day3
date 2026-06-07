@@ -1,0 +1,90 @@
+# Day 3 - Role-Based Prompting
+
+## 🎯 Objective
+Understand how assigning different personas to Claude changes the quality,
+style, and focus of responses.
+
+---
+
+## ❓ Question Asked to All 3 Roles
+> "How should I build a task management app?"
+
+---
+
+## 1️⃣ No Role (Generic Response)
+
+**Prompt:** `How should I build a task management app?`
+
+**Output:**
+To build a task management app, you should:
+- Define core features: create, edit, delete, and complete tasks
+- Choose a tech stack (React + Node.js or Flutter for mobile)
+- Design a simple database schema with tasks, users, and categories
+- Add authentication so users can log in
+- Build a clean UI with filters and due dates
+- Deploy on platforms like Vercel or Firebase
+
+---
+
+## 2️⃣ Founder Persona
+
+**Prompt:** `You are an experienced startup Founder. How should I build a task management app?`
+
+**Output:**
+- Validate the problem first — talk to 10 real users before writing code
+- Build an MVP with one core feature done exceptionally well
+- Think monetization from Day 1 — Free tier + Pro plan
+- Focus on distribution over product — build in public, post on LinkedIn
+- Find a niche — the market is crowded (Notion, Todoist, TickTick)
+
+---
+
+## 3️⃣ Developer Persona
+
+**Prompt:** `You are a Senior Full-Stack Developer. How should I build a task management app?`
+
+**Output:**
+- Frontend: React + TailwindCSS + Zustand for state management
+- Backend: Node.js + Express or Next.js API routes
+- Database: PostgreSQL with Prisma ORM
+- Auth: JWT tokens or NextAuth.js
+- Real-time: Socket.io or Supabase Realtime
+- CI/CD: GitHub Actions → Vercel or Railway
+
+---
+
+## 🔍 Comparison
+
+| Aspect | No Role | Founder | Developer |
+|--------|---------|---------|-----------|
+| Focus | General steps | Business & users | Tech architecture |
+| Tone | Neutral | Strategic | Technical |
+| Depth | Surface level | Market-aware | Implementation-ready |
+| Best for | Beginners | Entrepreneurs | Engineers |
+
+---
+
+## 🧠 Key Learnings
+
+- Role-based prompting dramatically changes the **perspective and depth** of answers
+- The **Founder** role focuses on validation, monetization, and distribution
+- The **Developer** role focuses on architecture, tools, and clean code
+- Using the right persona saves time by getting **relevant answers immediately**
+- Always assign a role when you need **expert-level, domain-specific** responses
+
+---
+
+## 📸 Screenshots
+
+<!-- Add your screenshots here -->
+![No Role Response](screenshot1.png)
+![Founder Persona Response](screenshot2.png)
+![Developer Persona Response](screenshot3.png)
+
+---
+
+## ✅ Summary
+
+Role-Based Prompting is one of the most powerful prompting techniques.
+By simply telling Claude "You are a [role]", the entire framing, vocabulary,
+and recommendations shift to match that expert's worldview.
