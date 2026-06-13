@@ -144,7 +144,21 @@ NutriScope MVP Dashboard
 
 
 
-![NutriScope Enhanced Dashboard](screenshot2.png)
+
+NutriScope Enhanced Dashboard
+
+<img width="1324" height="533" alt="image" src="https://github.com/user-attachments/assets/9775ad4a-f730-4b9e-b0c1-d872d08ca2ea" />
+
+<img width="1292" height="716" alt="image" src="https://github.com/user-attachments/assets/ee0a4319-9d8c-47f3-b685-7b899f5a0d50" />
+
+<img width="1147" height="679" alt="image" src="https://github.com/user-attachments/assets/ea9dc2f2-63d0-4aa5-8efc-b5da8aa9e156" />
+
+<img width="1196" height="513" alt="image" src="https://github.com/user-attachments/assets/35fd2a95-c451-43a6-af97-8aa7cfc56b06" />
+
+<img width="1174" height="662" alt="image" src="https://github.com/user-attachments/assets/91b2c98b-7cc1-4509-b784-fe4f7e4b32df" />
+
+<img width="1155" height="431" alt="image" src="https://github.com/user-attachments/assets/badd27d3-6e25-46d2-8b17-03e8ea4cee2e" />
+
 
 ---
 
